@@ -1,0 +1,4 @@
+name: okok
+
+on:
+  workflow_dispatch:
